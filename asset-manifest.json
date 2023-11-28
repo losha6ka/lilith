@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.ba29d83d.css",
-    "main.js": "/static/js/main.2e3227d8.js",
+    "main.js": "/static/js/main.60d01670.js",
     "static/media/phoneTwopng.png": "/static/media/phoneTwopng.3b79401b167f6e639949.png",
     "static/media/phoneOne.png": "/static/media/phoneOne.b7f909f55368f5b7fcfa.png",
     "static/media/phoneThree.png": "/static/media/phoneThree.4111903e3d544188d9c1.png",
@@ -12,10 +12,10 @@
     "static/media/telegram_logo_icon_168692.svg": "/static/media/telegram_logo_icon_168692.095a18550f37b476f73a.svg",
     "index.html": "/index.html",
     "main.ba29d83d.css.map": "/static/css/main.ba29d83d.css.map",
-    "main.2e3227d8.js.map": "/static/js/main.2e3227d8.js.map"
+    "main.60d01670.js.map": "/static/js/main.60d01670.js.map"
   },
   "entrypoints": [
     "static/css/main.ba29d83d.css",
-    "static/js/main.2e3227d8.js"
+    "static/js/main.60d01670.js"
   ]
 }
