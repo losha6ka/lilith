@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.ba29d83d.css",
+    "main.css": "/static/css/main.fd8c173d.css",
     "main.js": "/static/js/main.2ac9c61a.js",
     "static/media/phoneTwopng.png": "/static/media/phoneTwopng.3b79401b167f6e639949.png",
     "static/media/phoneOne.png": "/static/media/phoneOne.b7f909f55368f5b7fcfa.png",
@@ -11,11 +11,11 @@
     "static/media/gmail_new_logo_icon_159149.svg": "/static/media/gmail_new_logo_icon_159149.7bf1a224482e8512d458.svg",
     "static/media/telegram_logo_icon_168692.svg": "/static/media/telegram_logo_icon_168692.095a18550f37b476f73a.svg",
     "index.html": "/index.html",
-    "main.ba29d83d.css.map": "/static/css/main.ba29d83d.css.map",
+    "main.fd8c173d.css.map": "/static/css/main.fd8c173d.css.map",
     "main.2ac9c61a.js.map": "/static/js/main.2ac9c61a.js.map"
   },
   "entrypoints": [
-    "static/css/main.ba29d83d.css",
+    "static/css/main.fd8c173d.css",
     "static/js/main.2ac9c61a.js"
   ]
 }
