@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.36886a40.css",
-    "main.js": "/static/js/main.aa5d38b0.js",
+    "main.css": "/static/css/main.ba29d83d.css",
+    "main.js": "/static/js/main.2e3227d8.js",
     "static/media/phoneTwopng.png": "/static/media/phoneTwopng.3b79401b167f6e639949.png",
     "static/media/phoneOne.png": "/static/media/phoneOne.b7f909f55368f5b7fcfa.png",
     "static/media/phoneThree.png": "/static/media/phoneThree.4111903e3d544188d9c1.png",
@@ -11,11 +11,11 @@
     "static/media/gmail_new_logo_icon_159149.svg": "/static/media/gmail_new_logo_icon_159149.7bf1a224482e8512d458.svg",
     "static/media/telegram_logo_icon_168692.svg": "/static/media/telegram_logo_icon_168692.095a18550f37b476f73a.svg",
     "index.html": "/index.html",
-    "main.36886a40.css.map": "/static/css/main.36886a40.css.map",
-    "main.aa5d38b0.js.map": "/static/js/main.aa5d38b0.js.map"
+    "main.ba29d83d.css.map": "/static/css/main.ba29d83d.css.map",
+    "main.2e3227d8.js.map": "/static/js/main.2e3227d8.js.map"
   },
   "entrypoints": [
-    "static/css/main.36886a40.css",
-    "static/js/main.aa5d38b0.js"
+    "static/css/main.ba29d83d.css",
+    "static/js/main.2e3227d8.js"
   ]
 }
