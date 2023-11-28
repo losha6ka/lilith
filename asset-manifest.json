@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/lilith/static/css/main.8f748edf.css",
-    "main.js": "/lilith/static/js/main.937b8564.js",
-    "static/media/phoneTwopng.png": "/lilith/static/media/phoneTwopng.3b79401b167f6e639949.png",
-    "static/media/phoneOne.png": "/lilith/static/media/phoneOne.b7f909f55368f5b7fcfa.png",
-    "static/media/phoneThree.png": "/lilith/static/media/phoneThree.4111903e3d544188d9c1.png",
-    "static/media/treeMainChange.png": "/lilith/static/media/treeMainChange.350bcfc6fa62ecc516ac.png",
-    "static/media/Aileron-Regular.otf": "/lilith/static/media/Aileron-Regular.acd900a1d1f7a0682499.otf",
-    "static/media/logoTolyaTest.svg": "/lilith/static/media/logoTolyaTest.7d7594f13efeed6629eaaa37e84f6701.svg",
-    "static/media/gmail_new_logo_icon_159149.svg": "/lilith/static/media/gmail_new_logo_icon_159149.7bf1a224482e8512d458.svg",
-    "static/media/telegram_logo_icon_168692.svg": "/lilith/static/media/telegram_logo_icon_168692.095a18550f37b476f73a.svg",
-    "index.html": "/lilith/index.html",
-    "main.8f748edf.css.map": "/lilith/static/css/main.8f748edf.css.map",
-    "main.937b8564.js.map": "/lilith/static/js/main.937b8564.js.map"
+    "main.css": "/static/css/main.3443c834.css",
+    "main.js": "/static/js/main.a5586682.js",
+    "static/media/phoneTwopng.png": "/static/media/phoneTwopng.3b79401b167f6e639949.png",
+    "static/media/phoneOne.png": "/static/media/phoneOne.b7f909f55368f5b7fcfa.png",
+    "static/media/phoneThree.png": "/static/media/phoneThree.4111903e3d544188d9c1.png",
+    "static/media/treeMainChange.png": "/static/media/treeMainChange.350bcfc6fa62ecc516ac.png",
+    "static/media/Aileron-Regular.otf": "/static/media/Aileron-Regular.acd900a1d1f7a0682499.otf",
+    "static/media/logoTolyaTest.svg": "/static/media/logoTolyaTest.7d7594f13efeed6629eaaa37e84f6701.svg",
+    "static/media/gmail_new_logo_icon_159149.svg": "/static/media/gmail_new_logo_icon_159149.7bf1a224482e8512d458.svg",
+    "static/media/telegram_logo_icon_168692.svg": "/static/media/telegram_logo_icon_168692.095a18550f37b476f73a.svg",
+    "index.html": "/index.html",
+    "main.3443c834.css.map": "/static/css/main.3443c834.css.map",
+    "main.a5586682.js.map": "/static/js/main.a5586682.js.map"
   },
   "entrypoints": [
-    "static/css/main.8f748edf.css",
-    "static/js/main.937b8564.js"
+    "static/css/main.3443c834.css",
+    "static/js/main.a5586682.js"
   ]
 }
