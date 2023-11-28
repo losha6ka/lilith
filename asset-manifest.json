@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.fd8c173d.css",
-    "main.js": "/static/js/main.2ac9c61a.js",
-    "static/media/phoneTwopng.png": "/static/media/phoneTwopng.3b79401b167f6e639949.png",
-    "static/media/phoneOne.png": "/static/media/phoneOne.b7f909f55368f5b7fcfa.png",
-    "static/media/phoneThree.png": "/static/media/phoneThree.4111903e3d544188d9c1.png",
-    "static/media/treeMainChange.png": "/static/media/treeMainChange.350bcfc6fa62ecc516ac.png",
+    "main.css": "/static/css/main.a914acd2.css",
+    "main.js": "/static/js/main.464a1d35.js",
+    "static/media/phoneOne.jpg": "/static/media/phoneOne.18407b2503224424a3da.jpg",
+    "static/media/phoneTwopng.jpg": "/static/media/phoneTwopng.329279c41974773f2309.jpg",
+    "static/media/phoneThree.jpg": "/static/media/phoneThree.1efbbc59bfc07ff42462.jpg",
+    "static/media/treeMainChange.jpg": "/static/media/treeMainChange.1d08b0c310186e7a7bf0.jpg",
     "static/media/Aileron-Regular.otf": "/static/media/Aileron-Regular.acd900a1d1f7a0682499.otf",
-    "static/media/logoTolyaTest.svg": "/static/media/logoTolyaTest.7d7594f13efeed6629eaaa37e84f6701.svg",
-    "static/media/gmail_new_logo_icon_159149.svg": "/static/media/gmail_new_logo_icon_159149.7bf1a224482e8512d458.svg",
+    "static/media/logoTolya.svg": "/static/media/logoTolya.b6047eb431c5d76cad33fb95786ebf4b.svg",
+    "static/media/gmail_new_logo_icon_159149.svg": "/static/media/gmail_new_logo_icon_159149.dc5038dd844af980e463.svg",
     "static/media/telegram_logo_icon_168692.svg": "/static/media/telegram_logo_icon_168692.095a18550f37b476f73a.svg",
     "index.html": "/index.html",
-    "main.fd8c173d.css.map": "/static/css/main.fd8c173d.css.map",
-    "main.2ac9c61a.js.map": "/static/js/main.2ac9c61a.js.map"
+    "main.a914acd2.css.map": "/static/css/main.a914acd2.css.map",
+    "main.464a1d35.js.map": "/static/js/main.464a1d35.js.map"
   },
   "entrypoints": [
-    "static/css/main.fd8c173d.css",
-    "static/js/main.2ac9c61a.js"
+    "static/css/main.a914acd2.css",
+    "static/js/main.464a1d35.js"
   ]
 }
