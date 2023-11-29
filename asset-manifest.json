@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.a5dbce3f.css",
-    "main.js": "/static/js/main.464a1d35.js",
-    "static/media/phoneOne.jpg": "/static/media/phoneOne.18407b2503224424a3da.jpg",
-    "static/media/phoneTwopng.jpg": "/static/media/phoneTwopng.329279c41974773f2309.jpg",
-    "static/media/phoneThree.jpg": "/static/media/phoneThree.1efbbc59bfc07ff42462.jpg",
-    "static/media/treeMainChange.jpg": "/static/media/treeMainChange.1d08b0c310186e7a7bf0.jpg",
+    "main.css": "/static/css/main.7391dc17.css",
+    "main.js": "/static/js/main.ab1e3d3e.js",
+    "static/media/background-fullscreen.webp": "/static/media/background-fullscreen.e1b941f5e61470594ee2.webp",
+    "static/media/bg-registration.webp": "/static/media/bg-registration.6004d712fc9d33ac64a4.webp",
+    "static/media/what-we-give.webp": "/static/media/what-we-give.7727af351cda81039e19.webp",
+    "static/media/lilith-tree.webp": "/static/media/lilith-tree.dfb89347debe8753d7eb.webp",
     "static/media/Aileron-Regular.otf": "/static/media/Aileron-Regular.acd900a1d1f7a0682499.otf",
-    "static/media/logoTolya.svg": "/static/media/logoTolya.b6047eb431c5d76cad33fb95786ebf4b.svg",
-    "static/media/gmail_new_logo_icon_159149.svg": "/static/media/gmail_new_logo_icon_159149.dc5038dd844af980e463.svg",
-    "static/media/telegram_logo_icon_168692.svg": "/static/media/telegram_logo_icon_168692.095a18550f37b476f73a.svg",
+    "static/media/logo.svg": "/static/media/logo.b6047eb431c5d76cad33fb95786ebf4b.svg",
+    "static/media/gmail.svg": "/static/media/gmail.dc5038dd844af980e463.svg",
+    "static/media/telegram.svg": "/static/media/telegram.095a18550f37b476f73a.svg",
     "index.html": "/index.html",
-    "main.a5dbce3f.css.map": "/static/css/main.a5dbce3f.css.map",
-    "main.464a1d35.js.map": "/static/js/main.464a1d35.js.map"
+    "main.7391dc17.css.map": "/static/css/main.7391dc17.css.map",
+    "main.ab1e3d3e.js.map": "/static/js/main.ab1e3d3e.js.map"
   },
   "entrypoints": [
-    "static/css/main.a5dbce3f.css",
-    "static/js/main.464a1d35.js"
+    "static/css/main.7391dc17.css",
+    "static/js/main.ab1e3d3e.js"
   ]
 }
