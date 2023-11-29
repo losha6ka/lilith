@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.3cd907cb.css",
-    "main.js": "/static/js/main.5141a910.js",
+    "main.css": "/static/css/main.2be6831a.css",
+    "main.js": "/static/js/main.839c878f.js",
     "static/media/background-fullscreen.webp": "/static/media/background-fullscreen.e1b941f5e61470594ee2.webp",
     "static/media/bg-registration.webp": "/static/media/bg-registration.6004d712fc9d33ac64a4.webp",
     "static/media/what-we-give.webp": "/static/media/what-we-give.7727af351cda81039e19.webp",
@@ -11,11 +11,11 @@
     "static/media/gmail.svg": "/static/media/gmail.dc5038dd844af980e463.svg",
     "static/media/telegram.svg": "/static/media/telegram.095a18550f37b476f73a.svg",
     "index.html": "/index.html",
-    "main.3cd907cb.css.map": "/static/css/main.3cd907cb.css.map",
-    "main.5141a910.js.map": "/static/js/main.5141a910.js.map"
+    "main.2be6831a.css.map": "/static/css/main.2be6831a.css.map",
+    "main.839c878f.js.map": "/static/js/main.839c878f.js.map"
   },
   "entrypoints": [
-    "static/css/main.3cd907cb.css",
-    "static/js/main.5141a910.js"
+    "static/css/main.2be6831a.css",
+    "static/js/main.839c878f.js"
   ]
 }
