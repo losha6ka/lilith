@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.79e74340.css",
-    "main.js": "/static/js/main.2ff77b4d.js",
-    "static/media/what-we-give.webp": "/static/media/what-we-give.7727af351cda81039e19.webp",
-    "static/media/lilith-tree.webp": "/static/media/lilith-tree.dfb89347debe8753d7eb.webp",
-    "static/media/bg.jpg": "/static/media/bg.777ef33659c83422a7c1.jpg",
-    "static/media/Aileron-Regular.otf": "/static/media/Aileron-Regular.acd900a1d1f7a0682499.otf",
-    "static/media/logo.svg": "/static/media/logo.b6047eb431c5d76cad33fb95786ebf4b.svg",
-    "static/media/background-fullscreen.webp": "/static/media/background-fullscreen.47a03d826c10466d584a.webp",
-    "static/media/gmail.svg": "/static/media/gmail.dc5038dd844af980e463e41b993f9a2a.svg",
-    "static/media/telegram.svg": "/static/media/telegram.095a18550f37b476f73aa5f94069b696.svg",
-    "index.html": "/index.html",
-    "main.79e74340.css.map": "/static/css/main.79e74340.css.map",
-    "main.2ff77b4d.js.map": "/static/js/main.2ff77b4d.js.map"
+    "main.css": "/lilith/static/css/main.77d123a1.css",
+    "main.js": "/lilith/static/js/main.5595ef2b.js",
+    "static/media/what-we-give.webp": "/lilith/static/media/what-we-give.7727af351cda81039e19.webp",
+    "static/media/lilith-tree.webp": "/lilith/static/media/lilith-tree.dfb89347debe8753d7eb.webp",
+    "static/media/bg.jpg": "/lilith/static/media/bg.777ef33659c83422a7c1.jpg",
+    "static/media/Aileron-Regular.otf": "/lilith/static/media/Aileron-Regular.acd900a1d1f7a0682499.otf",
+    "static/media/logo.svg": "/lilith/static/media/logo.b6047eb431c5d76cad33fb95786ebf4b.svg",
+    "static/media/background-fullscreen.webp": "/lilith/static/media/background-fullscreen.47a03d826c10466d584a.webp",
+    "static/media/gmail.svg": "/lilith/static/media/gmail.dc5038dd844af980e463e41b993f9a2a.svg",
+    "static/media/telegram.svg": "/lilith/static/media/telegram.095a18550f37b476f73aa5f94069b696.svg",
+    "index.html": "/lilith/index.html",
+    "main.77d123a1.css.map": "/lilith/static/css/main.77d123a1.css.map",
+    "main.5595ef2b.js.map": "/lilith/static/js/main.5595ef2b.js.map"
   },
   "entrypoints": [
-    "static/css/main.79e74340.css",
-    "static/js/main.2ff77b4d.js"
+    "static/css/main.77d123a1.css",
+    "static/js/main.5595ef2b.js"
   ]
 }
