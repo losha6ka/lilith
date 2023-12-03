@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.0c7606d3.css",
+    "main.css": "/static/css/main.60c1f1b5.css",
     "main.js": "/static/js/main.19945a2c.js",
     "static/media/what-we-give.webp": "/static/media/what-we-give.7727af351cda81039e19.webp",
     "static/media/lilith-tree.webp": "/static/media/lilith-tree.dfb89347debe8753d7eb.webp",
@@ -22,11 +22,11 @@
     "static/media/heart.svg": "/static/media/heart.3dbc5115b0bdcaaecbc3dff89d95ffad.svg",
     "static/media/video.svg": "/static/media/video.1ab1964047f7c03f5bab86e9514abe8b.svg",
     "index.html": "/index.html",
-    "main.0c7606d3.css.map": "/static/css/main.0c7606d3.css.map",
+    "main.60c1f1b5.css.map": "/static/css/main.60c1f1b5.css.map",
     "main.19945a2c.js.map": "/static/js/main.19945a2c.js.map"
   },
   "entrypoints": [
-    "static/css/main.0c7606d3.css",
+    "static/css/main.60c1f1b5.css",
     "static/js/main.19945a2c.js"
   ]
 }
