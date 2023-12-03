@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.5888cc33.css",
-    "main.js": "/static/js/main.900662da.js",
+    "main.js": "/static/js/main.d3aa3906.js",
     "static/media/what-we-give.webp": "/static/media/what-we-give.7727af351cda81039e19.webp",
     "static/media/lilith-tree.webp": "/static/media/lilith-tree.dfb89347debe8753d7eb.webp",
     "static/media/background-main.webp": "/static/media/background-main.49e1db47afa131e9de9c.webp",
@@ -15,7 +15,6 @@
     "static/media/avans.svg": "/static/media/avans.15fc2f13e2f472117993f13b3fb2d2e7.svg",
     "static/media/alltime.svg": "/static/media/alltime.9a4d30b95752b18d5f01bab1d9067f3c.svg",
     "static/media/confidence.svg": "/static/media/confidence.d796894e1fe6c4ef00d26a0a8b991aee.svg",
-    "static/media/money.svg": "/static/media/money.6e9d1a9a4c6363802f848f702c21fd2d.svg",
     "static/media/comfort.svg": "/static/media/comfort.4e652eeaa853449aa385003d056277f2.svg",
     "static/media/telegram.svg": "/static/media/telegram.893bde10a6900eed4703ac6b8a281cbd.svg",
     "static/media/gmail.svg": "/static/media/gmail.996c4d2bf8414e3bd3e1f3f9f3f852c5.svg",
@@ -23,10 +22,10 @@
     "static/media/video.svg": "/static/media/video.1ab1964047f7c03f5bab86e9514abe8b.svg",
     "index.html": "/index.html",
     "main.5888cc33.css.map": "/static/css/main.5888cc33.css.map",
-    "main.900662da.js.map": "/static/js/main.900662da.js.map"
+    "main.d3aa3906.js.map": "/static/js/main.d3aa3906.js.map"
   },
   "entrypoints": [
     "static/css/main.5888cc33.css",
-    "static/js/main.900662da.js"
+    "static/js/main.d3aa3906.js"
   ]
 }
