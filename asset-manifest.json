@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.bc4a81c0.css",
-    "main.js": "/static/js/main.44b126f2.js",
+    "main.js": "/static/js/main.ac2eaca1.js",
     "static/media/what-we-give.webp": "/static/media/what-we-give.7727af351cda81039e19.webp",
     "static/media/lilith-tree.webp": "/static/media/lilith-tree.dfb89347debe8753d7eb.webp",
     "static/media/background-main.webp": "/static/media/background-main.49e1db47afa131e9de9c.webp",
@@ -24,10 +24,10 @@
     "static/media/ru.svg": "/static/media/ru.8d2470211d4a65ca544d5e6aa82ac097.svg",
     "static/media/ua.svg": "/static/media/ua.86a798070a26aa351ebed59bb60c8558.svg",
     "main.bc4a81c0.css.map": "/static/css/main.bc4a81c0.css.map",
-    "main.44b126f2.js.map": "/static/js/main.44b126f2.js.map"
+    "main.ac2eaca1.js.map": "/static/js/main.ac2eaca1.js.map"
   },
   "entrypoints": [
     "static/css/main.bc4a81c0.css",
-    "static/js/main.44b126f2.js"
+    "static/js/main.ac2eaca1.js"
   ]
 }
