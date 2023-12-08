@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.af1dedd9.css",
-    "main.js": "/static/js/main.4aca9e9c.js",
+    "main.css": "/static/css/main.c9d08f43.css",
+    "main.js": "/static/js/main.baa92a2d.js",
     "static/media/what-we-give.webp": "/static/media/what-we-give.7727af351cda81039e19.webp",
     "static/media/lilith-tree.webp": "/static/media/lilith-tree.dfb89347debe8753d7eb.webp",
-    "static/media/background-main.webp": "/static/media/background-main.49e1db47afa131e9de9c.webp",
+    "static/media/background-main-android.webp": "/static/media/background-main-android.49e1db47afa131e9de9c.webp",
     "static/media/Aileron-Regular.otf": "/static/media/Aileron-Regular.acd900a1d1f7a0682499.otf",
     "static/media/logo.svg": "/static/media/logo.2720dca1e4d2edfc4bd624c299f967e3.svg",
     "static/media/background-fullscreen.webp": "/static/media/background-fullscreen.47a03d826c10466d584a.webp",
@@ -21,11 +21,12 @@
     "static/media/heart.svg": "/static/media/heart.3dbc5115b0bdcaaecbc3dff89d95ffad.svg",
     "static/media/video.svg": "/static/media/video.1ab1964047f7c03f5bab86e9514abe8b.svg",
     "index.html": "/index.html",
-    "main.af1dedd9.css.map": "/static/css/main.af1dedd9.css.map",
-    "main.4aca9e9c.js.map": "/static/js/main.4aca9e9c.js.map"
+    "static/media/background-main.webp": "/static/media/background-main.1103ba50128c21791f11.webp",
+    "main.c9d08f43.css.map": "/static/css/main.c9d08f43.css.map",
+    "main.baa92a2d.js.map": "/static/js/main.baa92a2d.js.map"
   },
   "entrypoints": [
-    "static/css/main.af1dedd9.css",
-    "static/js/main.4aca9e9c.js"
+    "static/css/main.c9d08f43.css",
+    "static/js/main.baa92a2d.js"
   ]
 }
